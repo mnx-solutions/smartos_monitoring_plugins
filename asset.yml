@@ -1,0 +1,14 @@
+type: Asset
+api_version: core/v2
+metadata:
+  created_by: name
+  labels:
+    sensu.io/managed_by: sensuctl
+  name: smartos_monitoring_plugins
+  namespace: default
+spec:
+  builds: null
+  filters: null
+  headers: null
+  sha512: 918326654695b607a91ebee2eb1a6d4ec81615fd5d6e4a35c7732d2bc823a84a9face02cfd44615572dc621cbd6f479df71e43d25fea9989a9279e12378b467a
+  url: https://github.com/mnx-solutions/smartos_monitoring_plugins/releases/download/1.0.1/smartos_monitoring_plugins-1.0.1.tar.gz
